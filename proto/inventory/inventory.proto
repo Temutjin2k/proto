@@ -2,7 +2,8 @@ syntax = "proto3";
 
 package inventorypb;
 
-option go_package = "github.com/Temutjin2k/proto/gen/inventorypb";
+option go_package = "github.com/Temutjin2k/proto/inventorypb";
+
 
 // INVENTORY SERVICE
 service InventoryService {

@@ -698,7 +698,7 @@ const file_inventory_inventory_proto_rawDesc = "" +
 	"\x10GetInventoryList\x12$.inventorypb.GetInventoryListRequest\x1a%.inventorypb.GetInventoryListResponse\x12P\n" +
 	"\x10GetInventoryByID\x12$.inventorypb.GetInventoryByIDRequest\x1a\x16.inventorypb.Inventory\x12N\n" +
 	"\x0fUpdateInventory\x12#.inventorypb.UpdateInventoryRequest\x1a\x16.inventorypb.Inventory\x12\\\n" +
-	"\x0fDeleteInventory\x12#.inventorypb.DeleteInventoryRequest\x1a$.inventorypb.DeleteInventoryResponseB-Z+github.com/Temutjin2k/proto/gen/inventorypbb\x06proto3"
+	"\x0fDeleteInventory\x12#.inventorypb.DeleteInventoryRequest\x1a$.inventorypb.DeleteInventoryResponseB)Z'github.com/Temutjin2k/proto/inventorypbb\x06proto3"
 
 var (
 	file_inventory_inventory_proto_rawDescOnce sync.Once
